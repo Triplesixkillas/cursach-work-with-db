@@ -1,0 +1,38 @@
+E:\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+E:\test subd omg it worked\test subd\bin\Release\test subd.exe
+E:\test subd omg it worked\test subd\bin\Release\test subd.pdb
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.SuggestedBindingRedirects.cache
+E:\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.exe
+E:\test subd omg it worked\test subd\obj\Release\test subd.pdb
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.exe
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.pdb
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.exe
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.pdb
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+D:\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+D:\test subd omg it worked\test subd\obj\Release\test subd.exe
+D:\test subd omg it worked\test subd\obj\Release\test subd.pdb
+D:\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+D:\test subd omg it worked\test subd\bin\Release\test subd.exe
+D:\test subd omg it worked\test subd\bin\Release\test subd.pdb
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form4.resources
