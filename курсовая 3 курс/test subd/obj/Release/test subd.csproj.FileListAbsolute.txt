@@ -1,0 +1,125 @@
+E:\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+E:\test subd omg it worked\test subd\bin\Release\test subd.exe
+E:\test subd omg it worked\test subd\bin\Release\test subd.pdb
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.SuggestedBindingRedirects.cache
+E:\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+E:\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+E:\test subd omg it worked\test subd\obj\Release\test subd.exe
+E:\test subd omg it worked\test subd\obj\Release\test subd.pdb
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.exe
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\bin\Release\test subd.pdb
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.exe
+C:\Users\Tripla\Desktop\test subd omg it worked\test subd\obj\Release\test subd.pdb
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+D:\test subd omg it worked\test subd\obj\Release\test_subd.frmAuthorization.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form2.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form3.resources
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Properties.Resources.resources
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+D:\test subd omg it worked\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+D:\test subd omg it worked\test subd\obj\Release\test subd.exe
+D:\test subd omg it worked\test subd\obj\Release\test subd.pdb
+D:\test subd omg it worked\test subd\bin\Release\test subd.exe.config
+D:\test subd omg it worked\test subd\bin\Release\test subd.exe
+D:\test subd omg it worked\test subd\bin\Release\test subd.pdb
+D:\test subd omg it worked\test subd\obj\Release\test_subd.Form4.resources
+D:\test subd omg it workedddd\test subd\bin\Release\test subd.exe.config
+D:\test subd omg it workedddd\test subd\bin\Release\test subd.exe
+D:\test subd omg it workedddd\test subd\bin\Release\test subd.pdb
+D:\test subd omg it workedddd\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+D:\test subd omg it workedddd\test subd\obj\Release\test_subd.frmAuthorization.resources
+D:\test subd omg it workedddd\test subd\obj\Release\test_subd.Form2.resources
+D:\test subd omg it workedddd\test subd\obj\Release\test_subd.Form3.resources
+D:\test subd omg it workedddd\test subd\obj\Release\test_subd.Form4.resources
+D:\test subd omg it workedddd\test subd\obj\Release\test_subd.Properties.Resources.resources
+D:\test subd omg it workedddd\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+D:\test subd omg it workedddd\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+D:\test subd omg it workedddd\test subd\obj\Release\test subd.exe
+D:\test subd omg it workedddd\test subd\obj\Release\test subd.pdb
+D:\test subd omg it workeddosodso\test subd\bin\Release\test subd.exe.config
+D:\test subd omg it workeddosodso\test subd\bin\Release\test subd.exe
+D:\test subd omg it workeddosodso\test subd\bin\Release\test subd.pdb
+D:\test subd omg it workeddosodso\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+D:\test subd omg it workeddosodso\test subd\obj\Release\test_subd.frmAuthorization.resources
+D:\test subd omg it workeddosodso\test subd\obj\Release\test_subd.Form2.resources
+D:\test subd omg it workeddosodso\test subd\obj\Release\test_subd.Form3.resources
+D:\test subd omg it workeddosodso\test subd\obj\Release\test_subd.Form4.resources
+D:\test subd omg it workeddosodso\test subd\obj\Release\test_subd.Properties.Resources.resources
+D:\test subd omg it workeddosodso\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+D:\test subd omg it workeddosodso\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+D:\test subd omg it workeddosodso\test subd\obj\Release\test subd.exe
+D:\test subd omg it workeddosodso\test subd\obj\Release\test subd.pdb
+E:\zhestko nadristal\test subd\bin\Release\test subd.exe.config
+E:\zhestko nadristal\test subd\bin\Release\test subd.exe
+E:\zhestko nadristal\test subd\bin\Release\test subd.pdb
+E:\zhestko nadristal\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+E:\zhestko nadristal\test subd\obj\Release\test_subd.frmAuthorization.resources
+E:\zhestko nadristal\test subd\obj\Release\test_subd.Form2.resources
+E:\zhestko nadristal\test subd\obj\Release\test_subd.Form3.resources
+E:\zhestko nadristal\test subd\obj\Release\test_subd.Form4.resources
+E:\zhestko nadristal\test subd\obj\Release\test_subd.Properties.Resources.resources
+E:\zhestko nadristal\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+E:\zhestko nadristal\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+E:\zhestko nadristal\test subd\obj\Release\test subd.exe
+E:\zhestko nadristal\test subd\obj\Release\test subd.pdb
+E:\zhestko nadristal\test subd\obj\Release\test_subd.CheckOrder.resources
+E:\zhestko nadristal\test subd\obj\Release\test_subd.InputDialog.resources
+D:\zhestko nadristal\test subd\bin\Release\test subd.exe.config
+D:\zhestko nadristal\test subd\bin\Release\test subd.exe
+D:\zhestko nadristal\test subd\bin\Release\test subd.pdb
+D:\zhestko nadristal\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+D:\zhestko nadristal\test subd\obj\Release\test_subd.CheckOrder.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.frmAuthorization.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.Form2.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.Form3.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.InputDialog.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.Form4.resources
+D:\zhestko nadristal\test subd\obj\Release\test_subd.Properties.Resources.resources
+D:\zhestko nadristal\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+D:\zhestko nadristal\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+D:\zhestko nadristal\test subd\obj\Release\test subd.exe
+D:\zhestko nadristal\test subd\obj\Release\test subd.pdb
+H:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.CheckOrder.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.frmAuthorization.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.InputDialog.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.Properties.Resources.resources
+H:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+H:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+H:\zhestko nadristalll\test subd\obj\Release\test subd.exe
+H:\zhestko nadristalll\test subd\obj\Release\test subd.pdb
+H:\zhestko nadristalll\test subd\bin\Release\test subd.exe.config
+H:\zhestko nadristalll\test subd\bin\Release\test subd.exe
+H:\zhestko nadristalll\test subd\bin\Release\test subd.pdb
+E:\zhestko nadristalll\test subd\bin\Release\test subd.exe.config
+E:\zhestko nadristalll\test subd\bin\Release\test subd.exe
+E:\zhestko nadristalll\test subd\bin\Release\test subd.pdb
+E:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.AssemblyReference.cache
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.CheckOrder.resources
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.frmAuthorization.resources
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.InputDialog.resources
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.Properties.Resources.resources
+E:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.GenerateResource.cache
+E:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.CoreCompileInputs.cache
+E:\zhestko nadristalll\test subd\obj\Release\test subd.exe
+E:\zhestko nadristalll\test subd\obj\Release\test subd.pdb
+E:\zhestko nadristalll\test subd\obj\Release\test subd.csproj.SuggestedBindingRedirects.cache
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.MainForm.resources
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.AddForm.resources
+E:\zhestko nadristalll\test subd\obj\Release\test_subd.EditForm.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.MainForm.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.AddForm.resources
+H:\zhestko nadristalll\test subd\obj\Release\test_subd.EditForm.resources

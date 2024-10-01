@@ -1,0 +1,17 @@
+Create PROCEDURE GetOrdersByCustomerID
+    @CustomerID INT
+AS
+BEGIN
+    SELECT
+        g.Фирма AS 'Фирма',
+        g.Модель AS 'Модель',
+		o.orderamount as 'Количество'
+    FROM
+        Orders o
+    JOIN
+        Users u ON o.customerid = u.userID
+    JOIN
+        _Товары g ON o.goodid = g.ID
+    WHERE
+        o.customerid = @CustomerID;
+END;
